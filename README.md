@@ -32,3 +32,10 @@ The project addresses the following questions:
 1. Clone this repository:
    ```bash
    git clone https://github.com/SamruddhiTambe/SQL_Project_Music_Store_Analysis.git
+
+   ```
+2. Import database_dump.sql into your PostgreSQL database.
+3. Run queries.sql using a PostgreSQL client.
+4. Review results in the results/ folder.
+5. Results:
+      All results can be found in the results/ folder or in the presentation.
